@@ -58,10 +58,14 @@ This project draws on Data Mart’s term-level enrollment data to analyze academ
 - Enrollment decreased from **2019–2022 (-0.9%, -6.1%, -9.1%, -2.7%)** and then rebounded with **+9.6% (2023)** and **+6.8% (2024)**.  
 - Year-over-year change turned positive in **2023 (+9.6%)** and remained strong in **2024 (+6.8%)**, showing clear recovery momentum.
 
+![statewide_yoy.png](https://github.com/jcm-kang/ca-cc-enrollment-trends-2016-2024/blob/main/Statewide%20enrollment%20%26%20YoY.png)
+
 ### Term-Level Patterns  
 - **Fall** and **Spring** saw the sharpest declines between 2020–2022, followed by steady growth through 2024.  
 - **Spring 2022** was the lowest enrollment point (1.27M), while **Fall 2023–2024** show the strongest recovery.  
 - **Summer** remained stable throughout the pandemic, consistently making up **~19–21%** of yearly enrollment.  
+
+![statewide_season.png](https://github.com/jcm-kang/ca-cc-enrollment-trends-2016-2024/blob/main/Statewide%20by%20season.png)
 
 ### Student Status Overview  
 - Enrollment by student status shows that **Continuing Students** remain the largest group but also experienced the steepest pandemic-related decline. Their enrollment fell from **2.41 million (2019)** to **1.96 million (2021)** (–18.8%) and has only partially recovered to **2.07 million in 2024**, still **14% below** pre-pandemic levels.
@@ -72,6 +76,7 @@ In contrast, **First-Time**, **First-Time Transfer**, and **Returning Students**
 - **Special Admit Students** (dual enrollment) grew continuously, rising **63%** from **2019 to 2024**, the strongest increase of any status category.
 
 The **ratio of new students to continuing students** increased from **0.31 (2019)** to **0.36 (2022–2024)**, indicating that new student enrollment has become a relatively larger contributor to systemwide recovery.
+![student_status.png](https://github.com/jcm-kang/ca-cc-enrollment-trends-2016-2024/blob/main/student_ratio.png)
 
 ### Demographic Insights  
 - **Hispanic/Latino students** remain the largest group, rising from **46.7% (2019–2020)** to **48.3% (2023–2024)**.  
@@ -79,10 +84,14 @@ The **ratio of new students to continuing students** increased from **0.31 (2019
 - **Asian students** declined around **16.8%** from 2019–2020 to 2021–2022, and **White Non-Hispanic students** declined **14.4%** over the same period.  
 - **Female students** consistently make up the largest gender group, followed by **Male**; **Non-Binary** and **Unknown** categories remain small but are slowly increasing.  
 
+![student_ethnicity.png](https://github.com/jcm-kang/ca-cc-enrollment-trends-2016-2024/blob/main/demographics.png)
+
 ### Age-Group Patterns  
 - Students **19 or younger** surpassed pre-pandemic levels, rising **6.2%** from 2019–2020 to 2023–2024.  
 - Students aged **20–24** and **25–29** remain **17–18% below** pre-pandemic levels even by 2023–2024.  
 - Students **50+** experienced the steepest pandemic drop (**-27.7%** by 2021–2022) and remain about **9% below** 2019–2020 levels.  
+
+![student_age.png](https://github.com/jcm-kang/ca-cc-enrollment-trends-2016-2024/blob/main/age.png)
 
 ### Top 5 Colleges by 2024 Enrollment  
 Based on systemwide totals combined across Fall, Spring, and Summer terms:  
